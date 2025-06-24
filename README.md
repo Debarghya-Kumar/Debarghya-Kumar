@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 BCA Student | Tech Enthusiast
 -----------------------------
-
+![Project banner](Debs_Git.png)
 
 # Here is little bit about me
 
