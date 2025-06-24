@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BCA Student | Tech Enthusiast
 -----------------------------
 <p align="center">
-  <a href="C:\Users\debar\OneDrive\Pictures\Camera Roll">
-    <img src="Debs_Git.png" alt="Banner" width="600"/>
-  </a>
+  <img src="images/Debs_Git.png" alt="Project banner" width="600"/>
 </p>
 
 # Here is little bit about me
