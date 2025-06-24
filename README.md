@@ -5,9 +5,9 @@ BCA Student | Tech Enthusiast
 -----------------------------
 
 
-# About Me
+# Here is little bit about me
 
-Project description...
+My description...
 
 
 * 🌍  I'm based in India
