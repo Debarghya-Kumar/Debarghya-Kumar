@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debarghya Kumar
 =======================================================================================================================================
-
-BCA Student | Tech Enthusiast
------------------------------
 <p >
   <img align="top" src="https://github.com/Debarghya-Kumar/HTML-revision/blob/main/html/Chapter-5/Images/Debs_Git.png" alt="Project banner" width="900"/>
 </p>
+BCA Student | Tech Enthusiast
+-----------------------------
 
 # Here is little bit about me
 
