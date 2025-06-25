@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BCA Student | Tech Enthusiast
 -----------------------------
 <p >
-  <img align="top" src="https://cdn.discordapp.com/attachments/1386012077058949241/1387106287355170836/Debs_Git.png?ex=685ccba6&is=685b7a26&hm=2153047b4a12bdef490c6f54a0fe88bad2ee1c6bd258dc919fd8524e390c956d&" alt="Project banner" width="600"/>
+  <img align="top" src="https://github.com/Debarghya-Kumar/HTML-revision/blob/main/html/Chapter-5/Images/Debs_Git.png" alt="Project banner" width="600"/>
 </p>
 
 # Here is little bit about me
