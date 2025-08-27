@@ -13,7 +13,7 @@ My description...
 * 🧠  I'm learning JAVA
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Fun fact: I know few magic tricks-they're great for breaking the ice and impressing friends!
-* <img width="18" height="16" alt="joystick" src="https://github.com/user-attachments/assets/1830ce0e-ae4a-49b0-8cae-e216c868c47b" />  Games: I Play Genshin Impact, Honkai: Star Rail, Wethering Waves.
+* <img width="18" height="18" alt="joystick" src="https://github.com/user-attachments/assets/1830ce0e-ae4a-49b0-8cae-e216c868c47b" />   Games: I Play Genshin Impact, Honkai: Star Rail, Wethering Waves.
 
 
 <a href="https://www.github.com/Debarghya-Kumar" target="_blank" rel="noreferrer"><img
