@@ -9,11 +9,11 @@ My description...
 
 
 * 🌍  I'm based in India
-* ✉️  How to reach me:[DebarghyaKumar on Github](https://github.com/Debarghya-Kumar)
+* ✉️  How to reach me: [Debarghya-Kumar on Github](https://github.com/Debarghya-Kumar)
 * 🧠  I'm learning JAVA
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Fun fact: I know few magic tricks-they're great for breaking the ice and impressing friends!
-* <img width="14" height="14" alt="joystick" src="https://github.com/user-attachments/assets/1830ce0e-ae4a-49b0-8cae-e216c868c47b" />Games: I Play Genshin Impact, Honkai: Star Rail, Wethering Waves.
+* ⚡  Fun fact: I know few magic tricks-they're great for breaking the ice and impressing friends!
+* <img width="18" height="16" alt="joystick" src="https://github.com/user-attachments/assets/1830ce0e-ae4a-49b0-8cae-e216c868c47b" />  Games: I Play Genshin Impact, Honkai: Star Rail, Wethering Waves.
 
 
 <a href="https://www.github.com/Debarghya-Kumar" target="_blank" rel="noreferrer"><img
