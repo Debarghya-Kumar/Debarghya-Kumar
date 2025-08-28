@@ -7,13 +7,12 @@ BCA Student | Tech Enthusiast
 
 My description...
 
-
 * 🌍  I'm based in India
-* ✉️  How to reach me: [Debarghya-Kumar on Github](https://github.com/Debarghya-Kumar)
+* ✉️  How to reach me: [Debarghya-Kumar on Github](https://github.com/Debarghya-Kumar) or [Get me on LinkedIn](https://www.linkedin.com/in/debarghya-kumar)
 * 🧠  I'm learning JAVA
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Fun fact: I know few magic tricks-they're great for breaking the ice and impressing friends!
-* <img width="18" height="18" alt="joystick" src="https://github.com/user-attachments/assets/1830ce0e-ae4a-49b0-8cae-e216c868c47b" />    Games: I Play Genshin Impact, Honkai: Star Rail, Wethering Waves.
+* <img width="18" height="18" alt="joystick" src="https://github.com/user-attachments/assets/1830ce0e-ae4a-49b0-8cae-e216c868c47b" />    Games: I Play Genshin Impact, Honkai: Star Rail and Wethering Waves.
 
 
 <a href="https://www.github.com/Debarghya-Kumar" target="_blank" rel="noreferrer"><img
