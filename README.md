@@ -2,8 +2,8 @@
   <img align="top" src="https://github.com/Debarghya-Kumar/HTML-revision/blob/main/html/Chapter-5/Images/Debs_Git.png" alt="Project banner" width="900"/>
 </p>
 BCA Student | Tech Enthusiast
----
-### Here is little bit about me
+
+ Here is little bit about me
 
 My description...
 
